@@ -1,0 +1,1269 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"beare",
+				"bearer_token.rb\t(timeline.rb)"
+			],
+			[
+				"is_",
+				"is_abundant_sum"
+			],
+			[
+				"abun",
+				"abundants"
+			],
+			[
+				"is",
+				"is_amicablenumbers"
+			],
+			[
+				"Pro",
+				"Problem002\t(Problem002.jl)"
+			],
+			[
+				"Prob",
+				"Problem001\t(test_problem001.jl)"
+			],
+			[
+				"get_pk",
+				"get_similar_pks"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"Ima",
+				"ImageFactory\t(managers.py)"
+			],
+			[
+				"asseeis",
+				"assertEqualIsPurchased\t(item.py)"
+			],
+			[
+				"onCli",
+				"onClickDeleteButton"
+			],
+			[
+				"user-item-",
+				"user-item-list.jsx"
+			],
+			[
+				"S",
+				"SearchFilters"
+			],
+			[
+				"BRA",
+				"BRAND"
+			],
+			[
+				"Abs",
+				"AbstractBaseList"
+			],
+			[
+				"user",
+				"user1〔variable〕"
+			],
+			[
+				"categ",
+				"category\t(test_models.py)"
+			],
+			[
+				"user1",
+				"user1_range〔variable〕"
+			],
+			[
+				"make",
+				"make_image_file〔function〕"
+			],
+			[
+				"scr",
+				"script\tTag"
+			],
+			[
+				"scrip",
+				"script\t<script>"
+			],
+			[
+				"para",
+				"param\tTag"
+			],
+			[
+				"script",
+				"script\t<script>"
+			],
+			[
+				"inclu",
+				"includes\t(index.html)"
+			],
+			[
+				"ab",
+				"abstract-base-list.jsx"
+			],
+			[
+				"cate",
+				"category\t(mixins.jsx)"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"EmailU",
+				"EmailUserChangeForm"
+			],
+			[
+				"Te",
+				"TEST_USER_NUM"
+			],
+			[
+				"sear",
+				"searchable"
+			],
+			[
+				"user-",
+				"user-item/"
+			],
+			[
+				"deli",
+				"delivery_days\t(models.py)"
+			],
+			[
+				"get",
+				"getLogger\t(models.py)"
+			],
+			[
+				"orie",
+				"orientation_class\t(item.py)"
+			],
+			[
+				"fil",
+				"filtername"
+			],
+			[
+				"item",
+				"items.jsx"
+			],
+			[
+				"render",
+				"render_options"
+			],
+			[
+				"lab",
+				"label\t<label>"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"defaul",
+				"defaults"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"Catego",
+				"CategorySelector"
+			],
+			[
+				"selecte",
+				"selectedCategory"
+			],
+			[
+				"c",
+				"css/"
+			],
+			[
+				"getor",
+				"get_object_or_404"
+			],
+			[
+				"resu",
+				"result-filters.jsx"
+			],
+			[
+				"dash",
+				"dashboard_view"
+			],
+			[
+				"SVG",
+				"SVGPolygon"
+			],
+			[
+				"sv",
+				"svg-polygon.jsx"
+			],
+			[
+				"pix",
+				"pixelColors"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"STA",
+				"STATIC_ROOT\t(settings.py)"
+			],
+			[
+				"prin",
+				"printResultDWT"
+			],
+			[
+				"gauss",
+				"gauss_coefficient"
+			],
+			[
+				"a_out",
+				"a_out2"
+			],
+			[
+				"gene",
+				"generateSquareWave"
+			],
+			[
+				"arra",
+				"array_dToc\t(noise_removal.c)"
+			],
+			[
+				"trans",
+				"transformed_c"
+			],
+			[
+				"noisremo",
+				"noiseRemovalWithDFT\t(noise_removal.c)"
+			],
+			[
+				"recosin",
+				"recovered_sin_dft"
+			],
+			[
+				"sq",
+				"square_wave"
+			],
+			[
+				"noise",
+				"noised_wave"
+			],
+			[
+				"cos",
+				"cos_wave"
+			],
+			[
+				"freea",
+				"freeArray_c"
+			],
+			[
+				"fre",
+				"freeArray_d"
+			],
+			[
+				"Arr",
+				"Array_d"
+			],
+			[
+				"remov",
+				"removed_c"
+			],
+			[
+				"tra",
+				"transformed_c"
+			],
+			[
+				"Ar",
+				"Array_c\t(dft.h)"
+			],
+			[
+				"Arry",
+				"Array_c\t(fft.h)"
+			],
+			[
+				"star",
+				"start_position"
+			],
+			[
+				"new",
+				"newArray_d"
+			],
+			[
+				"Arra",
+				"Array_d\t(fft.c)"
+			],
+			[
+				"input",
+				"inputt\tinput - text"
+			],
+			[
+				"au",
+				"author"
+			],
+			[
+				"eige",
+				"eigen.h"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"priam",
+				"printMatrixToFile\t(matrix.c)"
+			],
+			[
+				"rgb",
+				"convertColorSpaceIntoRGB"
+			],
+			[
+				"printI",
+				"printBMPInfoHeader"
+			],
+			[
+				"compressed",
+				"compressed.bmp"
+			],
+			[
+				"BMP",
+				"BMPFileHeader"
+			],
+			[
+				"printImage",
+				"printImage\t(image.h)"
+			],
+			[
+				"newIma",
+				"newImage\t(image.h)"
+			],
+			[
+				"loadFI",
+				"loadFileAsMatrix\t(matrix.c)"
+			],
+			[
+				"print",
+				"printMatrix"
+			],
+			[
+				"inpu",
+				"input.txt"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ffte",
+				"ffted1"
+			],
+			[
+				"origi",
+				"original_dim"
+			],
+			[
+				"origina",
+				"original_vector"
+			],
+			[
+				"ifft",
+				"iffted"
+			],
+			[
+				"Arrd",
+				"array_cTod"
+			],
+			[
+				"array",
+				"array_dToc"
+			],
+			[
+				"fft",
+				"ffted"
+			],
+			[
+				"tras",
+				"transformed"
+			],
+			[
+				"musi",
+				"music_id"
+			],
+			[
+				"respo",
+				"response_with_error\t(Responser.php)"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"arti",
+				"artist_id"
+			],
+			[
+				"prefe",
+				"prefecture"
+			],
+			[
+				"genera",
+				"generateDatesClass"
+			],
+			[
+				"thr",
+				"throw\t(date.format.js)"
+			],
+			[
+				"grap",
+				"graph_data"
+			],
+			[
+				"wei",
+				"weight"
+			],
+			[
+				"weig",
+				"weight_chart"
+			],
+			[
+				"Date",
+				"DateTime\t(index.php)"
+			],
+			[
+				"err",
+				"error_code"
+			],
+			[
+				"now",
+				"now_day"
+			],
+			[
+				"invali",
+				"invalid_id\t(AuthController.php)"
+			],
+			[
+				"invalid",
+				"invalid_pass\t(Exceptions.php)"
+			],
+			[
+				"message",
+				"message"
+			],
+			[
+				"D",
+				"DashboardController\t(Application.php)"
+			],
+			[
+				"thi",
+				"this〔keyword〕"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"draw",
+				"drawer.js"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"inputs",
+				"inputs\tinput - submit"
+			],
+			[
+				"inputt",
+				"inputt\tinput - text"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"oupu",
+				"output_signal"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"ifo",
+				"iof.h"
+			],
+			[
+				"pha",
+				"phase_s"
+			],
+			[
+				"Array",
+				"Array_d"
+			],
+			[
+				"tople",
+				"topLeft_"
+			],
+			[
+				"bottom",
+				"bottomRight_"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "#include <Nefry.h>\n#include <WiFiClientSecure.h>\n\nconst int httpPort = 443;\nconst char* host = \"hooks.slack.com\";\n\nvoid setup() {\n  Nefry.setLed(255, 255, 255);\n}\n\nvoid loop() {\n  Nefry.setLed(255, 0, 0);\n  Nefry.ndelay(10000);\n  Nefry.setLed(0, 255, 0);\n  Nefry.ndelay(10000);\n  Nefry.setLed(0, 0, 255);\n  Nefry.ndelay(10000);\n}",
+			"settings":
+			{
+				"buffer_size": 329,
+				"line_ending": "Unix",
+				"name": "#include <Nefry.h>"
+			}
+		},
+		{
+			"file": "twitter/test.rb",
+			"settings":
+			{
+				"buffer_size": 18,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 361.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"projec",
+				"Project Manager: Add Project"
+			],
+			[
+				"mark",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"sassb",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"sassbe",
+				"SassBeautify"
+			],
+			[
+				"sass b",
+				"SassBeautify"
+			],
+			[
+				"lis",
+				"Set Syntax: Lisp"
+			],
+			[
+				"ali",
+				"Abacus: align selection"
+			],
+			[
+				"uns",
+				"Build: New Build System"
+			],
+			[
+				"al",
+				"Abacus: align selection"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"cdn",
+				"Cdnjs: Import Script"
+			],
+			[
+				":wq",
+				"BracketHighlighter: Swap Quotes"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"cdnj",
+				"Cdnjs: Search"
+			],
+			[
+				"package l",
+				"Package Control: List Packages"
+			],
+			[
+				"snippet",
+				"Snippet: @if"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"choose lint",
+				"SublimeLinter: Choose Lint Mode"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sass ",
+				"Set Syntax: Sass"
+			],
+			[
+				"syntax",
+				"Set Syntax: Sass"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"packageremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"snipe htm",
+				"Snippet: html"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"cssco",
+				"Run CSScomb"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: PHP"
+			],
+			[
+				"synta",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Bookmarks: Clear All"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/twitter/twitter_api.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/http.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/test.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/post.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/private.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/timeline.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/twitter_api.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/constants.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/bearer_token.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/api.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/twitterapi.rb",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/Gemfile",
+		"/Users/yuka/GoogleDrive/Work/fnifni_study/2017-08-24/twitter.rb",
+		"/Users/yuka/.zshrc",
+		"/Users/yuka/.zsh_profile",
+		"/Users/yuka/.zshprofile",
+		"/usr/local/bin/virtualenvwrapper.sh",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem022.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem015.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem022.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/runtests.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/ProjectEuler.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem026.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem025.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem024.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem023.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem021.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem020.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem019.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem018.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem017.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem016.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem014.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem013.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem012.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem011.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem010.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem009.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem008.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem007.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem006.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem005.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem004.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem003.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem002.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/test/test_problem001.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem026.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem021.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem025.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem024.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem020.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem023.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem009.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem001.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem002.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem003.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem004.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem017.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem005.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem006.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem007.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem008.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem010.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem011.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem012.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem013.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem014.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem015.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem016.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem018.jl",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem019.jl",
+		"/Users/yuka/Downloads/WORLD_TRIGGER_v21.plist",
+		"/Users/yuka/Desktop/Text Substitutions.plist",
+		"/Users/yuka/Downloads/WORLD_TRIGGER_v21-2.txt",
+		"/Users/yuka/Downloads/WORLD_TRIGGER_v21.txt",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/.travis.yml",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/src/Problem012.md",
+		"/Users/yuka/.gitconfig",
+		"/Users/yuka/GoogleDrive/Work/ProjectEuler.jl/REQUIRE",
+		"/Users/yuka/GoogleDrive/Work/Project Euler/src/Problem002.jl",
+		"/Users/yuka/GoogleDrive/Work/Project Euler/test/test_problem001.jl",
+		"/Users/yuka/GoogleDrive/Work/Project Euler/src/Problem001.jl",
+		"/Users/yuka/GoogleDrive/Work/Project Euler/src/ProjectEuler.jl",
+		"/Users/yuka/GoogleDrive/Work/Project Euler/test/runtests.jl",
+		"/Users/yuka/GoogleDrive/Work/Project Euler/Problem001/Problem001.jl",
+		"/Users/yuka/GoogleDrive/Work/Project Euler/Problem001/TestProblem001.jl",
+		"/Users/yuka/GoogleDrive/Work/Project Euler/.travis.yml",
+		"/Users/yuka/GoogleDrive/Work/Project Euler/test/Problem001.jl",
+		"/Users/yuka/Library/Application Support/Sublime Text 3/Packages/User/Julia",
+		"/Users/yuka/Desktop/sample.rb",
+		"/Users/yuka/Downloads/Solution/Javascripts/test.js",
+		"/Users/yuka/Downloads/Solution/Javascripts/showEachPlacesNum.js",
+		"/Users/yuka/Downloads/Solution/Javascripts/rotate.js",
+		"/Users/yuka/Downloads/Solution/Javascripts/initialize.js",
+		"/Users/yuka/Downloads/Solution/Javascripts/controlInPanel.js",
+		"/Users/yuka/Downloads/Solution/index.html",
+		"/Users/yuka/Downloads/Solution/Javascripts/custom.js",
+		"/Users/yuka/Downloads/Solution/Javascripts/moveCardboardBox.js",
+		"/Users/yuka/Downloads/Solution/Javascripts/jQueryRotate.js",
+		"/Users/yuka/Downloads/Solution/Javascripts/jquery.drawsvg.js",
+		"/Users/yuka/Downloads/Solution/Sass/object/component/_canvas.sass",
+		"/Users/yuka/Downloads/Solution/Javascripts/anime.js",
+		"/Users/yuka/GoogleDrive/Work/Project Euler/p1.jl",
+		"/Users/yuka/Library/Application Support/Sublime Text 3/Packages/User/julia.sublime-build",
+		"/Users/yuka/OneDrive/Workspace/Python/Fizz_Buzz.py",
+		"/Users/yuka/Desktop/practice.rb",
+		"/Users/yuka/Desktop/practice.ruby",
+		"/Users/yuka/Desktop/[shell_cmd",
+		"/Users/yuka/Desktop/[path",
+		"/Users/yuka/OneDrive/Workspace/iPhoneApp/MyPlayground.playground/Resources/types.plist",
+		"/Users/yuka/OneDrive/Workspace/iPhoneApp/MyPlayground.playground/Resources/types.xml",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/deploy_task.sh",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/deploy_all_war_files.sh",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/deploy_war_file.sh",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/war_each.sh",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/war.sh",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/create_war_file.sh",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/ansible/ansible-build.sh",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/ansible/ansible-local.sh",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/ansible/deploy.sh",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/Web/build.gradle",
+		"/Users/yuka/Desktop/com/nifty/kff/teamD/logger/Logger.class",
+		"/Users/yuka/Desktop/com/nifty/kff/teamD/logger/LoggerUser.class",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/ansible/ansible-build-deploy.sh",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/CI/ansible/hosts",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/Web/.classpath",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/Web/src/main/sass/_header.scss",
+		"/Users/yuka/GoogleDrive/Work/training/workspace/Web/src/main/sass/_base.scss"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 329,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								329,
+								329
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <Nefry.h>",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"is_init_dirty_state": true,
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "twitter/test.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"incomplete_sync": null,
+							"origin_encoding": "ASCII",
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 145.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 106.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "Packages/User/julia.sublime-build",
+	"project": "fnifni.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/GoogleDrive/School/Subjects/Communication_Engineering_II/2nd/Assignments/example/1-5/ex1-5.gnuplot"
+			],
+			[
+				"gnup",
+				"~/GoogleDrive/School/Subjects/Communication_Engineering_II/2nd/Assignments/example/1-5/ex1-5.gnuplot"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
