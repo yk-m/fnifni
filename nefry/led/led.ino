@@ -1,7 +1,7 @@
 #include <Nefry.h>
 
 void setup() {
-    // put your setup code here, to run once:
+    Nefry.setProgramName("LED (Red -> Blue -> Green)");
 }
 
 void loop() {
@@ -12,4 +12,5 @@ void loop() {
     Nefry.setLed(0, 255, 0);
     Nefry.ndelay(1000);
 }
+
 
